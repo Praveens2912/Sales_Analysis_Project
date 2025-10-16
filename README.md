@@ -135,7 +135,7 @@ By identifying best-performing months, cities, and products, businesses can bett
 <br>
 Developed By
 
- Praveen S
+ Praveen S<br>
  Chennai, India<br>
  GitHub Profile - https://github.com/Praveens2912<br>
  Portfolio - https://praveens2912.github.io/My_Portfolio/
