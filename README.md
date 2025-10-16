@@ -20,7 +20,7 @@ Using Python and visualization libraries, the project answers six key business q
 
 ##  Business Questions Solved
 
-### 1. How to read Feather data?
+### 1️⃣ How to read Feather data?
 Demonstrated how to import `.feather` files using **pandas** and **pyarrow** for faster I/O operations.  
 ```python
 import pandas as pd
@@ -28,7 +28,9 @@ all_data = pd.read_feather(r"C:\Users\sprav\Downloads\4..+Sales+Analysis/Sales_d
 ```
 <br>
 
-### 2. Which is the best month for sales?
+---
+
+### 2️⃣ Which is the best month for sales?
 
 Calculated monthly revenue and identified the month with the highest total sales, helping to understand seasonal sales patterns.
 <br>
@@ -41,7 +43,9 @@ Calculated monthly revenue and identified the month with the highest total sales
 
 <br>
 
-### 3. Which city has the maximum number of orders?
+---
+
+### 3️⃣ Which city has the maximum number of orders?
 
 Analyzed city-wise order counts to find which city generated the most sales.
 <br>
@@ -53,7 +57,9 @@ Analyzed city-wise order counts to find which city generated the most sales.
 <img width="627" height="491" alt="Screenshot 2025-10-16 131725" src="https://github.com/user-attachments/assets/389e185e-b02b-4884-84ee-194733e65851" />\
 <br>
 
-### 4. What product sold the most and why?
+---
+
+### 4️⃣ What product sold the most and why?
 
 Examined the top-selling products and explored possible reasons such as price range, promotions, and customer demand.
 <br>
@@ -66,7 +72,9 @@ Examined the top-selling products and explored possible reasons such as price ra
 
 <br>
 
-### 5. Understanding trend of the most sold products
+---
+
+### 5️⃣ Understanding trend of the most sold products
 
 Visualized sales trends of popular products using Matplotlib and Seaborn to identify growth and demand patterns.
 <br>
@@ -80,8 +88,10 @@ Visualized sales trends of popular products using Matplotlib and Seaborn to iden
 
 <br>
 
+---
 
-### 6. What products are most often sold together?
+
+### 6️⃣ What products are most often sold together?
 
 Performed a combination analysis to find items frequently purchased together, useful for cross-selling strategies.
 <br>
@@ -94,6 +104,8 @@ Performed a combination analysis to find items frequently purchased together, us
 
 
 <br>
+
+---
 
 ##  Tools & Libraries Used
 
@@ -110,6 +122,8 @@ Performed a combination analysis to find items frequently purchased together, us
 
 <br>
 
+---
+
 ##  Key Insights
 
 - December had the highest total sales, likely due to holiday shopping.
@@ -121,9 +135,9 @@ Performed a combination analysis to find items frequently purchased together, us
 - iPhone and Lightning Cable were frequently bought together, suggesting strong product bundling potential.
 
 
-
-
 <br>
+
+---
 
 ## Conclusion
 
